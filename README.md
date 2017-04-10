@@ -39,4 +39,4 @@ Dozent: Sven Spielvogel
 
 ### Online Courses
 * https://www.codecademy.com/learn/react-101
-* https://www.udemy.com/courses/search/?q=react&src=ukw&sort=most-reviewed 
+* https://www.udemy.com/courses/search/?q=react&src=ukw&sort=most-reviewed
