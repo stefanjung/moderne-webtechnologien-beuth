@@ -1,6 +1,6 @@
 # Aktuelle Webtechnologien: Frameworks und Tools (SoSe17)
 
-Teammitglieder: Stefan, Johan, Sahmed, Marco 
+Teammitglieder: Stefan, Johan, Samed, Marco 
 
 Dozent: Sven Spielvogel
 
