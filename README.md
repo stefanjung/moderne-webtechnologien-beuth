@@ -4,7 +4,7 @@ Teammitglieder: Stefan, Johan, Samed, Marco
 
 Dozent: Sven Spielvogel
 
-## Kriterien für die Wahl von Tools
+## Tools
 
 ### Projektmanagment & Kommunikation
 1) Trello (https://trello.com)
@@ -28,3 +28,15 @@ Dozent: Sven Spielvogel
 ### Stack
 1) React (https://facebook.github.io/react/)
 2) Bootstrap (https://getbootstrap.com)
+
+## Getting Started with React
+
+* Official Documentation (https://facebook.github.io/react/docs/hello-world.html)
+
+### Tutorials
+* http://buildwithreact.com/tutorial
+* https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+
+### Online Courses
+* https://www.codecademy.com/learn/react-101
+* https://www.udemy.com/courses/search/?q=react&src=ukw&sort=most-reviewed 
